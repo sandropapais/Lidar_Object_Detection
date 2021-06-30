@@ -1,4 +1,4 @@
-# Sensor Fusion Self-Driving Car Course
+# Lidar Object Detection Project
 
 <img src="https://github.com/awbrown90/SensorFusionHighway/blob/master/media/ObstacleDetectionFPS.gif" width="700" height="400" />
 
